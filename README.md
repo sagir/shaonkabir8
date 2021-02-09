@@ -14,7 +14,7 @@ Thanks for exploring my profile.I appreciate it 👍
 
 🔭 currently working as a Frontend Developer with an amazing team named [![](https://avatars2.githubusercontent.com/u/44778862?s=16&v=4) Code Eating Ants](https://github.com/code-eating-ants)\
 🌱 currently learning to **🤖 Automate web** & more **🚀 Coolest Staffs**\
-💻 All my **Project** with a live version are available at my personal [portfolio](https://shaonkabir.netlify.app.com)\
+💻 All my **Project** with a live version are available at my personal [portfolio](https://shaonkabir.netlify.app)\
 📝 **write articles** twice a month on [Dev Community](https://dev.to/shaonkabir8)\
 💬 **Ask me about:** JavaScript,React,Git, CSS3,SASS,HTML5,\
 ⚡ **Fun fact:** I'm a Night owl :owl: who love to travel :rocket:
